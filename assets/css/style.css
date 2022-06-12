@@ -9,7 +9,8 @@ body {
   }
   
   a {
-    color: #149ddd;
+    /*color: #149ddd;*/
+    color: rgb(244, 156, 14);
   }
   
   a:hover {
@@ -32,7 +33,8 @@ body {
     border-radius: 50px;
     right: 15px;
     bottom: 15px;
-    background: #149ddd;
+    /*background: #149ddd;*/
+    background: rgb(244, 156, 14);
     color: #fff;
     transition: display 0.5s ease-in-out;
     z-index: 99999;
@@ -47,8 +49,8 @@ body {
   
   .back-to-top:hover {
     color: #fff;
-    background: #2eafec;
-    transition: background 0.2s ease-in-out;
+    background: #e96570;
+    transition: background 0.33s ease-in-out;
   }
   
   /*--------------------------------------------------------------
@@ -106,8 +108,9 @@ body {
   }
   
   #header .profile .social-links a:hover {
-    background: #149ddd;
-    color: #fff;
+    /*background: #149ddd;*/
+    background: rgb(244, 156, 14);
+    color: white;
     text-decoration: none;
   }
 
@@ -169,7 +172,7 @@ body {
   }
   
   .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
-    color: #149ddd;
+    color: rgb(244, 156, 14);
   }
   
   /* Mobile Navigation */
@@ -189,7 +192,8 @@ body {
   }
   
   .mobile-nav-toggle i {
-    color: #149ddd;
+    /*color: #149ddd;*/
+    color: rgb(244, 156, 14);
   }
   
   .mobile-nav-active {
@@ -250,7 +254,8 @@ body {
     color: #fff;
     padding-bottom: 4px;
     letter-spacing: 1px;
-    border-bottom: 3px solid #149ddd;
+    /*border-bottom: 3px solid #149ddd;*/
+    border-bottom: 3px solid rgb(244, 156, 14);
   }
   
   @media (min-width: 1024px) {
@@ -302,7 +307,8 @@ body {
     display: block;
     width: 50px;
     height: 3px;
-    background: #149ddd;
+    /*background: #149ddd;*/
+    background: rgb(244, 156, 14);
     bottom: 0;
     left: 0;
   }
@@ -332,7 +338,8 @@ body {
   .about .content ul i {
     font-size: 20px;
     padding-right: 2px;
-    color: #149ddd;
+    /*color: #149ddd;*/
+    color: rgb(244, 156, 14);
   }
   
   .about .content p:last-child {
@@ -354,7 +361,8 @@ body {
   .facts .count-box i {
     display: block;
     font-size: 44px;
-    color: #149ddd;
+    /*color: #149ddd;*/
+    color: rgb(244, 156, 14);
     float: left;
   }
   
@@ -421,7 +429,8 @@ body {
     width: 1px;
     height: 10px;
     transition: .9s;
-    background-color: #149ddd;
+    /*background-color: #149ddd;*/
+    background-color: rgb(244, 156, 14);
   }
   
   /*--------------------------------------------------------------
@@ -516,7 +525,8 @@ body {
   }
   
   .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-    color: #149ddd;
+    /*color: #149ddd;*/
+    color: rgb(244, 156, 14);
   }
   
   .portfolio #portfolio-flters li:last-child {
@@ -599,7 +609,8 @@ body {
     justify-content: center;
     width: 54px;
     height: 54px;
-    background: #149ddd;
+    /*background: #149ddd;*/
+    background: rgb(244, 156, 14);;
     border-radius: 50%;
     transition: 0.5s;
     border: 1px solid #149ddd;
@@ -615,7 +626,8 @@ body {
   }
   
   .services .icon-box:hover .icon i {
-    color: #149ddd;
+    /*color: #149ddd;*/
+    color: rgb(244, 156, 14);
   }
   
   .services .title {
@@ -630,7 +642,8 @@ body {
   }
   
   .services .title a:hover {
-    color: #149ddd;
+    /*color: #149ddd;*/
+    color: rgb(244, 156, 14);
   }
   
   .services .description {
@@ -723,7 +736,8 @@ body {
   }
   
   .testimonials .owl-dot.active {
-    background-color: #149ddd !important;
+    /*background-color: #149ddd !important;*/
+    background-color: rgb(244, 156, 14)!important;
   }
   
   @media (max-width: 767px) {
@@ -748,7 +762,8 @@ body {
   
   .contact .info i {
     font-size: 20px;
-    color: #149ddd;
+    /*color: #149ddd;*/
+    color: rgb(244, 156, 14);
     float: left;
     width: 44px;
     height: 44px;
@@ -799,12 +814,14 @@ body {
   }
   
   .contact .info .social-links a:hover {
-    background: #149ddd;
+    /*background: #149ddd;*/
+    background: rgb(244, 156, 14);
     color: #fff;
   }
   
   .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-    background: #149ddd;
+    /*background: #149ddd;*/
+    background: rgb(244, 156, 14);
     color: #fff;
   }
   
@@ -884,7 +901,8 @@ body {
   }
   
   .contact .php-email-form button[type="submit"] {
-    background: #149ddd;
+    /*background: #149ddd;*/
+    background: rgb(244, 156, 14);
     border: 0;
     padding: 10px 24px;
     color: #fff;
@@ -990,7 +1008,8 @@ body {
   }
   
   .portfolio-details .portfolio-details-carousel .owl-dot.active {
-    background-color: #149ddd !important;
+    /*background-color: #149ddd !important;*/
+    background-color: rgb(244, 156, 14)!important;
   }
   
   .portfolio-details .portfolio-info {
@@ -998,7 +1017,7 @@ body {
     position: absolute;
     right: 0;
     bottom: -70px;
-    background: #fff;
+    background: white;
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
     z-index: 2;
   }
