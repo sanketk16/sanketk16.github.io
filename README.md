@@ -4,7 +4,7 @@ NUID: 002968050
 Portfolio repo
 
 
-Bootstarp components used for the portfolio website are:
+Bootstrap components used for the portfolio website are:
 1) alert
 2) card
 3) .nav
