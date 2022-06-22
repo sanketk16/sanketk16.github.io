@@ -140,9 +140,9 @@
     // Init AOS
     function aos_init() {
       AOS.init({
-        duration: 1000,
+        duration: 850,
         easing: "ease-in-out-back",
-        once: true
+        once: false
       });
     }
     $(window).on('load', function() {
