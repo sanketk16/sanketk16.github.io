@@ -3,6 +3,7 @@
 NUID: 002968050
 Portfolio repository
 
+Portfolio Link: https://sanketk16.github.io/
 
 Bootstrap components used for the portfolio website are:
 
